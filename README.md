@@ -6,3 +6,4 @@ Kelas : XI RPL 2
 
 ![screenshoot](https://github.com/auralntng/AdvancedWidget2/blob/master/aw2a.PNG?raw=true)
 ![screenshoot](https://github.com/auralntng/AdvancedWidget2/blob/master/aw2b.PNG?raw=true)
+![screenshoot](https://github.com/auralntng/AdvancedWidget2/blob/master/aw2c.PNG?raw=true)
